@@ -1,0 +1,36 @@
+[submodule "async"]
+	path = async
+	url = git@github.com:jbossejb3/jboss-ejb3-async.git
+[submodule "as6-depchain"]
+	path = as6-depchain
+	url = git@github.com:jbossejb3/jboss-ejb3-as6-depchain.git
+[submodule "bean-instantiator"]
+	path = bean-instantiator
+	url = git@github.com:jbossejb3/jboss-ejb3-bean-instantiator.git
+[submodule "concurrency"]
+	path = concurrency
+	url = git@github.com:jbossejb3/jboss-ejb3-concurrency.git
+[submodule "context"]
+	path = context
+	url = git@github.com:jbossejb3/jboss-ejb3-context.git
+[submodule "ejbref-resolver"]
+	path = ejbref-resolver
+	url = git@github.com:jbossejb3/jboss-ejb3-ejbref-resolver.git
+[submodule "nointerface"]
+	path = nointerface
+	url = git@github.com:jbossejb3/jboss-ejb3-nointerface.git
+[submodule "proxy"]
+	path = proxy
+	url = git@github.com:jbossejb3/jboss-ejb3-proxy.git
+[submodule "timeout"]
+	path = timeout
+	url = git@github.com:jbossejb3/jboss-ejb3-timeout.git
+[submodule "timerservice"]
+	path = timerservice
+	url = git@github.com:jbossejb3/jboss-ejb3-timerservice.git
+[submodule "singleton"]
+	path = singleton
+	url = git@github.com:jbossejb3/jboss-ejb3-singleton.git
+[submodule "tx2"]
+	path = tx2
+	url = git@github.com:jbossejb3/jboss-ejb3-tx2.git
