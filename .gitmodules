@@ -34,3 +34,6 @@
 [submodule "tx2"]
 	path = tx2
 	url = git@github.com:jbossejb3/jboss-ejb3-tx2.git
+[submodule "jndi"]
+	path = jndi
+	url = git@github.com:jbossejb3/jboss-ejb3-jndi.git
